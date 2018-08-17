@@ -1,0 +1,36 @@
+[Eagle]
+Version="06 04 00"
+Platform="Windows"
+Serial="6A0C6BA654-LSR-WLM30CP"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/LilyPad-Wearables.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-AnalogIC.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Boards.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Capacitors.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Connectors.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-DigitalIC.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Displays.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-FreqCtrl.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-LED.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Passives.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-PowerIC.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-RF.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Resistors.lbr"
+UsedLibrary="C:/Dropbox/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="0 0 763 713"
+State=1
+Number=0
+
+[Desktop]
+Screen="1600 900"
+Window="Win_1"
